@@ -1,3 +1,3 @@
 # c-code-for-beginners
 It is for HACKSQUAD 2022.
-This repo have many basic codes of c PROGRAMMING LANGUAGE.
+This repo have many basic codes of C PROGRAMMING LANGUAGE.
